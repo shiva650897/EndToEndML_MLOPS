@@ -70,21 +70,22 @@ with mlflow.start_run():
   mlflow.log_metric('metric name', 1)
 
 Run this to export as env variables:
+### Windows
 ```windows
 set MLFLOW_TRACKING_URI=https://dagshub.com/shiva650897/EndToEndML_MLOPS.mlflow
 
 set MLFLOW_TRACKING_USERNAME=shiva650897
 
-set  MLFLOW_TRACKING_PASSWORD=b1fa440976fa924b88b2e65c3f5fff99ef7c9b52
+set  MLFLOW_TRACKING_PASSWORD= xxxxxxxxxxxxxx
 ```
-
+### bash
 ```bash
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/shiva650897/EndToEndML_MLOPS.mlflow
 
 export MLFLOW_TRACKING_USERNAME=shiva650897
 
-export MLFLOW_TRACKING_PASSWORD=b1fa440976fa924b88b2e65c3f5fff99ef7c9b52
+export MLFLOW_TRACKING_PASSWORD=xxxxxxxxxxxxxx
 
 ```
 
