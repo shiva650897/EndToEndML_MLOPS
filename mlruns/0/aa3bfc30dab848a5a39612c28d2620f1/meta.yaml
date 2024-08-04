@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/personal_projects/ML_project_MLOPS/mlruns/0/aa3bfc30dab848a5a39612c28d2620f1/artifacts
+end_time: 1722763605706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa3bfc30dab848a5a39612c28d2620f1
+run_name: angry-ray-545
+run_uuid: aa3bfc30dab848a5a39612c28d2620f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722763590744
+status: 3
+tags: []
+user_id: HP
